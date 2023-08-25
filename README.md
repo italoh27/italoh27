@@ -8,7 +8,7 @@ Eu sou o italo Henrique estudante de programação, atualmente estou aprendendo 
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
  <br>
  <br>
-[![Italo Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=italoh27)](https://github.com/anuraghazra/github-readme-stats)
+[![Italo Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=italoh27)](https://github.com/anuraghazra/github-readme-stats)]
 
 
 
